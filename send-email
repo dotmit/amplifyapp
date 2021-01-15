@@ -1,0 +1,4 @@
+git clone git@github.com:craftzdog/send-email-lambda.git
+cd send-email-lambda
+apex init
+> Project nane: send-email
